@@ -1,0 +1,21 @@
+{
+  "name": "api_ssd",
+  "version": "1.0.0",
+  "description": "Senior Software Developer Assignment",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "author": "Sangeet Bargotra",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.9",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
